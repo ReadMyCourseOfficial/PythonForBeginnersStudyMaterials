@@ -1,0 +1,10 @@
+list_example=[1,2,3,4]
+#length
+print(len(list_example))
+#append
+list_example.append(7)
+print(list_example)
+#insert
+list_example=[1,2,3,4]
+list_example.insert(2,9)
+print(list_example)
